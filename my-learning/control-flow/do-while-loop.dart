@@ -9,4 +9,4 @@ do
        }
        while(a<maxnum);  
 } 
-//The code iteratively prints the value of variable a until it reaches 10, using a do-while loop in Dart.
+//The code iteratively prints the value of variable a until it reaches 10,
