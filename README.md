@@ -1,1 +1,1 @@
-Assignments on Dart with Flutter module.
+Assignments on Dart with Flutter module
